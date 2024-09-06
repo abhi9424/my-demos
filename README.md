@@ -1,5 +1,6 @@
 # my-dome
 
 # Teacher
-Akshay Kumar 
+Shardha Khapra (Apna College)
+
 
